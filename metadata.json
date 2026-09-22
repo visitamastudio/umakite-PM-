@@ -1,0 +1,6 @@
+{
+  "name": "Projeezy - Construction Project Management",
+  "description": "Modern, comprehensive construction project management SaaS platform featuring all 18 reference views: Gantt schedules, RAB/BOQ budgets, Kanban tasks, site monitoring, photos, change orders, finance, and client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
